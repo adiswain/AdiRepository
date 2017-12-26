@@ -3,8 +3,8 @@
 <suite name="Suite">
   <test name="Test">
     <classes>
-      <class name="testcases.TC001_LoginLogOut"/>
-      <!-- <class name="testcases.TC002_LoginNegative"/> -->
+      <!-- <class name="testcases.TC001_LoginLogOut"/> -->
+      <class name="testcases.TC002_LoginNegative"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
